@@ -1,4 +1,4 @@
-# Program that run ping command extract from file
+# Program that run ping command on ips extract from file
 
 ## Concurrent
 
